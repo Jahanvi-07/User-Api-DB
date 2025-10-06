@@ -63,5 +63,5 @@ Ensure you have the following installed:
 
 ## Screenshot
 
-   The API will be accessible at `http://localhost:5000`.
+   <img width="784" height="1016" alt="Image" src="https://github.com/user-attachments/assets/6b5c4cda-f147-4c4c-8fee-73ad1e104bab" />
 
